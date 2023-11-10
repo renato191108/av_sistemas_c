@@ -26,7 +26,7 @@ Foram impementados dois Sistemas na Linguagem C, um Sistema de controle Academic
  <p></p>
  Gustavo Lopes Santos - 202302372661
  <p></p>
- 
+ <h1>Ariel Souza Vieira de Araujo - 202203928856</h1>
 </h3>
 
 
