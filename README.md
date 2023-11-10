@@ -16,9 +16,11 @@ Foram impementados dois Sistemas na Linguagem C, um Sistema de controle Academic
 <h3><p></p>
  Renato Apolinário da Silva - 202104299508
  <p></p>
- Brenda Ranielly Batista Campos- 202102389402
- 
-
+ Brenda Ranielly Batista Campos - 202102389402
+ <p></p>
+ Tauan Bruno Dantas - 202302627811
+ <p></p>
+ Kerven Ayres de Oliveira - 202203033701
 </h3>
 
 
