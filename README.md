@@ -21,6 +21,12 @@ Foram impementados dois Sistemas na Linguagem C, um Sistema de controle Academic
  Tauan Bruno Dantas - 202302627811
  <p></p>
  Kerven Ayres de Oliveira - 202203033701
+ <p></p>
+ Felipe da Silva Bispo dos Santos - 202202597171
+ <p></p>
+ Gustavo Lopes Santos - 202302372661
+ <p></p>
+ 
 </h3>
 
 
